@@ -9,8 +9,8 @@
     <property name="ECLIPSE_HOME" value="C:/eclipse"/>
     <property name="junit.output.dir" value="junit"/>
     <property name="debuglevel" value="source,lines,vars"/>
-    <property name="target" value="1.7"/>
-    <property name="source" value="1.7"/>
+    <property name="target" value="1.8"/>
+    <property name="source" value="1.8"/>
 	  <property name="jar.dir" value="build/jar"/>
   <property name="war.dir" value="build/war"/>
   <property name="zip.dir" value="build/zip"/>
